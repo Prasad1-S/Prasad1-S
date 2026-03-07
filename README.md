@@ -66,6 +66,4 @@
 </picture>
 
 <div align="center">
-*Thanks for stopping by!* ✨
-
 </div>
