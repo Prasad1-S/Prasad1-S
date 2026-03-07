@@ -59,9 +59,9 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
+![snake animation](https://raw.githubusercontent.com/Prasad1-S/Prasad1-S/output/github-snake.svg)
 
 <div align="center">
-![snake animation](https://raw.githubusercontent.com/Prasad1-S/Prasad1-S/output/github-snake.svg)
 *Thanks for stopping by!* ✨
 
 </div>
