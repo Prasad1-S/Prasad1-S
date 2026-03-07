@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Prasad 👋
+# Hello, I'm Prasad 👋
 
 ### Computer Science Student @ MAKAUT University
 
@@ -8,11 +8,11 @@
 
 ---
 
-## About Me
+## ✨ About Me
 
-- 🎓 Studying **Computer Science** at MAKAUT University
-- 🔭 Exploring full-stack development & cloud technologies
-- 🌱 Always learning something new
+- 🎯 Actively looking for 2026 Summer Internship/New Grad opportunities (Open to relocation!)
+- 💪 Passionate about AI infra,distributed systems, cloud technologies, backend engineering
+- 📩 Feel free to reach out: subhojeetprasad123@gmail.com
 
 ---
 
