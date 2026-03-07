@@ -2,7 +2,7 @@
 
 # Hello, I'm Prasad 👋
 
-### Computer Science Student @ MAKAUT University
+### 💻 Computer Science Student @ MAKAUT University
 
 </div>
 
